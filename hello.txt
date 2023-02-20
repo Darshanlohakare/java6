@@ -1,3 +1,7 @@
 hello java 6 batch
 hii all students
+<<<<<<< HEAD
 darshan
+=======
+welcome
+>>>>>>> a60a172851725d30ce17f0a22388f5809a22362b
